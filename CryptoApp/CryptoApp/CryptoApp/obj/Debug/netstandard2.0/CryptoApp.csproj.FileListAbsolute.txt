@@ -1,0 +1,42 @@
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.deps.json
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.dll
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\ref\CryptoApp.dll
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.pdb
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.csproj.AssemblyReference.cache
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.AssemblyInfoInputs.cache
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.AssemblyInfo.cs
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.dll
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\ref\CryptoApp.dll
+C:\Users\niwan\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.pdb
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.deps.json
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.dll
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\ref\CryptoApp.dll
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.pdb
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.csproj.AssemblyReference.cache
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.AssemblyInfoInputs.cache
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.AssemblyInfo.cs
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.dll
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\ref\CryptoApp.dll
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.pdb
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.deps.json
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.dll
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\ref\CryptoApp.dll
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.pdb
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.csproj.AssemblyReference.cache
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.AssemblyInfoInputs.cache
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.AssemblyInfo.cs
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.dll
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\ref\CryptoApp.dll
+C:\Users\niwan\Desktop\Teck work\Projects\CryptoTracker\CryptoApp\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.pdb
