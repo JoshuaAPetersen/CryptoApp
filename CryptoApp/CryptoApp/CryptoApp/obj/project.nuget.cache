@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b+bqGuRGmKJ5GYmJzzTpcx3fBww51ROXC006MkIgBf9RKjTu6Mw6GSD3SIycfX5EVpMecxLPN4SSiHFqYZiNkQ==",
+  "dgSpecHash": "5SmidOjG304t8rNrgtt0ZFxFdZf/DUqdehoopYyv7GU66mkAWNSjtHmjFRZWSqFQbv3yFDqTVzQoLmvP8FV1eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.csproj",
+  "projectFilePath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\niwan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\niwan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

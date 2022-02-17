@@ -205,11 +205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp_Test1\\CryptoApp_Test1.csproj",
+      "projectUniqueName": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp_Test1\\CryptoApp_Test1.csproj",
       "projectName": "CryptoApp_Test1",
-      "projectPath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp_Test1\\CryptoApp_Test1.csproj",
+      "projectPath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp_Test1\\CryptoApp_Test1.csproj",
       "packagesPath": "C:\\Users\\niwan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp_Test1\\obj\\",
+      "outputPath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp_Test1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

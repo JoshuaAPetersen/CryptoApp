@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TEHxVeSAKD0XzDKXZlpQoMu9tpHepNcVcE6L80a64NLrlEOqgT+GO3+/MYA8t296PyK3FRDI/K7z14GUUBPV7A==",
+  "dgSpecHash": "XVj2fdTS093Y5TpcyO0Ue3XumdgeMX6brIvDYjIxZuWcE2L0NRlCYR82NAi1k1mo+Rg7dMqXMqpst/qt8NEX3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp_Test1\\CryptoApp_Test1.csproj",
+  "projectFilePath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp_Test1\\CryptoApp_Test1.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",

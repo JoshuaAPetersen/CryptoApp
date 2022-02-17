@@ -28,7 +28,7 @@ namespace CryptoApp_Test1
         [Test]
         public void WelcomeTextIsDisplayed()
         {
-            AppResult[] results = app.WaitForElement(c => c.Marked("CryptoPricesTitle"));
+            AppResult[] results = app.WaitForElement(c => c.Marked("Crypto Prices"));
             app.Screenshot("Main Page");
 
             Assert.IsTrue(results.Any());

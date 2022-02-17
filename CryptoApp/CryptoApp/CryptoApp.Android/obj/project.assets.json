@@ -2212,11 +2212,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.Android\\CryptoApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.Android\\CryptoApp.Android.csproj",
       "projectName": "CryptoApp.Android",
-      "projectPath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.Android\\CryptoApp.Android.csproj",
+      "projectPath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.Android\\CryptoApp.Android.csproj",
       "packagesPath": "C:\\Users\\niwan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2239,8 +2239,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.csproj": {
-              "projectPath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.csproj"
+            "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.csproj": {
+              "projectPath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.csproj"
             }
           }
         }

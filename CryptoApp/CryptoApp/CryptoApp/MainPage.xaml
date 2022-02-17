@@ -4,7 +4,7 @@
              x:Class="CryptoApp.MainPage">
 
     <StackLayout>
-        <Label AutomationId="CryptoPricesTitle" Text="Crypto Prices" BackgroundColor="Black" TextColor="White" FontSize="30" VerticalOptions="Center" Padding="50" />
+        <Label Text="Crypto Prices" BackgroundColor="Black" TextColor="White" FontSize="30" VerticalOptions="Center" Padding="50" />
         <Button x:Name="RefreshButton" Clicked="RefreshButton_Clicked" Text="Refresh" HeightRequest="100"></Button>
         <ListView x:Name="coinListView">
             <ListView.ItemTemplate>

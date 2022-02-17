@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2WqJCxgMnIAmhBDSWZurc6P9FxAE490b9c1oc3J2QdmPnUfyhvervcQuY2tD6L50cd87sjiEAL070sXAwl9R5w==",
+  "dgSpecHash": "asbRFGezbWxGPYoW3bQFEyBTkHlU4E/0PLuopVLbcbwz1yDcQseGQ1DKZpUR/iN14oj6Uk3Urm7R4qc55iglcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoTracker\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.Android\\CryptoApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\niwan\\Desktop\\Teck work\\Projects\\CryptoApp\\CryptoApp\\CryptoApp\\CryptoApp.Android\\CryptoApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\niwan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\niwan\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512",
